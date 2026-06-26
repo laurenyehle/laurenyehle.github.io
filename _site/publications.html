@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home – Lauren Yehle</title>
+<title>Research Outputs – Lauren Yehle</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -35,6 +55,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -90,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -98,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -127,77 +148,80 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research interests</a></li>
-  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link active" data-scroll-target="#peer-reviewed-publications">Peer-reviewed publications</a></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working papers</a></li>
+  <li><a href="#datasets-and-pre-registrations" id="toc-datasets-and-pre-registrations" class="nav-link" data-scroll-target="#datasets-and-pre-registrations">Datasets and Pre-Registrations</a></li>
+  <li><a href="#research-in-progress" id="toc-research-in-progress" class="nav-link" data-scroll-target="#research-in-progress">Research in progress</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="images/headshot.jpg" class="about-image
-  round " style="height: 16em; width: 16em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Research Outputs</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://www.gu.se/en/about/find-staff/laurenyehle" class="about-link" rel="" target="">
-    <i class="bi bi-building"></i>
-     <span class="about-link-text">University of Gothenburg</span>
-  </a>
-  <a href="mailto:lauren.yehle@gu.se" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://orcid.org/0009-0009-2038-4148" class="about-link" rel="" target="">
-    <i class="bi bi-orcid"></i>
-     <span class="about-link-text">ORCID</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=KpIU8IQAAAAJ&amp;hl=en&amp;oi=ao" class="about-link" rel="" target="">
-    <i class="bi bi-mortarboard"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
 
-<section id="welcome" class="level2">
-<h2 data-anchor-id="welcome">Welcome</h2>
-<p>I am a PhD student in Political Science at the University of Gothenburg. I study the political feasibility of environmental policy. Specifically, I investigate how compensation can make ambitious climate policies more politically acceptable among both organized interests and the public.</p>
-<p>My work combines public opinion research with political economy to understand how governments can design environmentally effective and politically feasible policies. Alongside my dissertation, I work on the ERC-funded project <em>Fem-LEAD</em>, studying how natural disasters shape political behavior and institutional trust.</p>
+
+<section id="peer-reviewed-publications" class="level2">
+<h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-reviewed publications</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-yehleConservationNatureWildlifes2024" class="csl-entry" role="listitem">
+Yehle, Lauren, Patrik Michaelsen, Niklas Harring, and Sverker C. Jagers. 2024. <span>“Conservation for Nature and Wildlife’s Sake: The Effects of (Non-)anthropocentric Ethical Justifications on Policy Acceptability.”</span> <em>Journal of Public Policy</em>, December, 1–23. <a href="https://doi.org/10.1017/S0143814X24000266">https://doi.org/10.1017/S0143814X24000266</a>.
+</div>
+<div id="ref-yehlePublicSupportMilitary2026" class="csl-entry" role="listitem">
+Yehle, Lauren, Aksel Sundström, Patrik Michaelsen, and Sverker C. Jagers. 2026. <span>“Public Support for Military Conservation: <span>Understanding</span> Public Opinion to the <span>‘War on Poachers’</span> in Three Countries.”</span> <em>World Development</em> 205 (September): 107440. <a href="https://doi.org/10.1016/j.worlddev.2026.107440">https://doi.org/10.1016/j.worlddev.2026.107440</a>.
+</div>
+</div>
 </section>
-<section id="research-interests" class="level2">
-<h2 data-anchor-id="research-interests">Research interests</h2>
-<ul>
-<li>Environmental politics</li>
-<li>Environmental policy acceptance</li>
-<li>Public opinion</li>
-<li>Climate policy</li>
-<li>Collective action</li>
-<li>Political behavior</li>
-</ul>
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working papers</h2>
+<p>Jagers, Sverker C., <strong>Lauren Yehle</strong>, Daniel Lindvall, Erik Elwing, and Niklas Harring. 2024. “Exploring How Specification of Revenue Use Shifts Attitudes Towards Climate Motivated Food Taxes.” Under review at <em>Food Policy</em>. https://doi.org/10.2139/ssrn.5060270. (under review at Food Policy)</p>
+<p>Metheney, Erica Ann, and <strong>Lauren Yehle</strong>. 2025. “Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation.” arXiv. https://doi.org/10.48550/arXiv.2411.14472. (under review at Journal of Survey Statistics and Methodology)</p>
+<p>Metheney, Erica Ann, and <strong>Lauren Yehle</strong>. 2025. “Generative AI as a Safety Net for Survey Question Refinement.” arXiv. https://doi.org/10.48550/arXiv.2509.08702.</p>
 </section>
-<section id="methods" class="level2">
-<h2 data-anchor-id="methods">Methods</h2>
+<section id="datasets-and-pre-registrations" class="level2">
+<h2 class="anchored" data-anchor-id="datasets-and-pre-registrations">Datasets and Pre-Registrations</h2>
+<p>Yehle, L., Sundström, A., Michaelsen, P., &amp; Jagers, S. (2025, December 23). Public support for military conservation. Retrieved from http://osf.io/kmazg</p>
+<p>Yehle, L., &amp; Michaelsen, P. (2024, October 25). Ethical Justification Effects on Environmental Policy Acceptance. Retrieved from http://osf.io/739pg</p>
+<p>Erica Ann Metheney; Lauren Yehle, 2024, “Replication Data for: Exploring Generative AI’s Role in Preparing Surveys for Translation”, https://doi.org/10.7910/DVN/HFT8TD, Harvard Dataverse, V1</p>
+</section>
+<section id="research-in-progress" class="level2">
+<h2 class="anchored" data-anchor-id="research-in-progress">Research in progress</h2>
 <ul>
-<li>Meta-Analysis</li>
-<li>Survey Experiments</li>
-<li>Cross Sectional Survey Analysis</li>
+<li>Political feasibility of compensation for environmental policy.</li>
+<li>Distributional fairness and environmental policy support.</li>
 </ul>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

@@ -1,0 +1,16 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+My current curriculum vitae is available below.
+
+[📄 Download CV (PDF)](files/CV.pdf){target="_blank"}
+
+<iframe
+  src="files/CV.pdf"
+  width="100%"
+  height="900"
+  style="border: none;">
+</iframe>

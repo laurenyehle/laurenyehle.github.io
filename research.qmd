@@ -1,0 +1,44 @@
+---
+title: "Research"
+---
+
+---
+title: "Research"
+---
+
+# Research
+
+My research examines the political feasibility of environmental policy, with a particular focus on how compensation can facilitate ambitious climate action. Broadly, I study how governments can design environmental policies that are both effective and politically acceptable.
+
+My work combines theories of political behavior, public opinion, and environmental governance to understand how citizens, organized interests, and policymakers respond to environmental policy.
+
+## Current Projects
+
+### Dissertation
+
+My dissertation investigates the political feasibility of compensating those who bear the costs of environmental policy.
+
+The first paper examines whether compensating industries that oppose climate policy can increase the likelihood that ambitious climate policies are passed.
+
+The second paper explores how perceptions of deservingness shape public willingness to compensate groups that may lose from environmental policy, including unemployed workers and affected local communities.
+
+### FEM-Lead
+
+Alongside my dissertation, I contribute to the ERC-funded project *Fem-LEAD* with Professor Aksel Sundström. My current work synthesizes evidence on how natural disasters influence politically relevant outcomes through systematic review and meta-analysis, with a focus on electoral incumbency and political trust. 
+
+Learn more about the project on the **[Fem-LEAD website](https://akselsundstrom.com/erc-starting-grant/)**.
+
+
+## Research Interests
+
+- Environmental politics
+- Public opinion
+- Climate and Biodiversity Loss policy acceptance
+- Environmental governance
+- Collective action
+- Political behavior
+- Political economy of the green transition
+
+## Methods
+
+My work primarily employs quantitative methods, including survey experiments, causal inference, systematic reviews, and meta-analysis.

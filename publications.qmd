@@ -1,0 +1,33 @@
+---
+title: "Research Outputs"
+bibliography: mypublications.bib
+nocite: |
+  @yehleConservationNatureWildlifes2024
+  @yehlePublicSupportMilitary2026
+
+---
+## Peer-reviewed publications
+
+::: {#refs}
+
+::: 
+
+## Working papers
+Jagers, Sverker C., **Lauren Yehle**, Daniel Lindvall, Erik Elwing, and Niklas Harring. 2024. “Exploring How Specification of Revenue Use Shifts Attitudes Towards Climate Motivated Food Taxes.” Under review at *Food Policy*. https://doi.org/10.2139/ssrn.5060270. (under review at Food Policy)
+
+Metheney, Erica Ann, and **Lauren Yehle**. 2025. “Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation.” arXiv. https://doi.org/10.48550/arXiv.2411.14472. (under review at Journal of Survey Statistics and Methodology)
+
+Metheney, Erica Ann, and **Lauren Yehle**. 2025. “Generative AI as a Safety Net for Survey Question Refinement.” arXiv. https://doi.org/10.48550/arXiv.2509.08702.
+
+## Datasets and Pre-Registrations
+Yehle, L., Sundström, A., Michaelsen, P., & Jagers, S. (2025, December 23). Public support for military conservation. Retrieved from http://osf.io/kmazg
+
+Yehle, L., & Michaelsen, P. (2024, October 25). Ethical Justification Effects on Environmental Policy Acceptance. Retrieved from http://osf.io/739pg
+
+Erica Ann Metheney; Lauren Yehle, 2024, "Replication Data for: Exploring Generative AI's Role in Preparing Surveys for Translation", https://doi.org/10.7910/DVN/HFT8TD, Harvard Dataverse, V1
+
+
+## Research in progress
+
+- Political feasibility of compensation for environmental policy.
+- Distributional fairness and environmental policy support.

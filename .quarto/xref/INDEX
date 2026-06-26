@@ -4,5 +4,29 @@
   },
   "index.qmd": {
     "index.html": "dcc209b8"
+  },
+  "contact.qmd": {
+    "contact.html": "421ad1d1"
+  },
+  "cv.qmd": {
+    "cv.html": "e3d7e097"
+  },
+  "Home.qmd": {
+    "Home.html": "140d0af5"
+  },
+  "publication.qmd": {
+    "publication.html": "9aaae5d5"
+  },
+  "research.qmd": {
+    "research.html": "353bf03e"
+  },
+  "teaching.qmd": {
+    "teaching.html": "a8bfd5ee"
+  },
+  "publications.qmd": {
+    "publications.html": "bf562c20"
+  },
+  "home.qmd": {
+    "home.html": "a6d304c2"
   }
 }

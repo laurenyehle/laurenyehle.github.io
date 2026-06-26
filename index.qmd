@@ -1,7 +1,44 @@
 ---
-title: "Lauren Yehle"
+title: "Home"
+image: images/headshot.jpg
+
+about:
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: building
+      text: University of Gothenburg
+      href: https://www.gu.se/en/about/find-staff/laurenyehle
+    - icon: envelope
+      text: Email
+      href: mailto:lauren.yehle@gu.se
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0009-0009-2038-4148
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=KpIU8IQAAAAJ&hl=en&oi=ao
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD student in Political Science at the University of Gothenburg. I study the political feasibility of environmental policy. Specifically, I investigate how compensation can make ambitious climate policies more politically acceptable among both organized interests and the public.
+
+My work combines public opinion research with political economy to understand how governments can design environmentally effective and politically feasible policies. Alongside my dissertation, I work on the ERC-funded project *Fem-LEAD*, studying how natural disasters shape political behavior and institutional trust.
+
+
+## Research interests
+
+- Environmental politics
+- Environmental policy acceptance 
+- Public opinion
+- Climate policy
+- Collective action
+- Political behavior
+
+## Methods
+
+- Meta-Analysis
+- Survey Experiments
+- Cross Sectional Survey Analysis

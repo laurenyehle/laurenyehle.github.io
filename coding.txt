@@ -1,0 +1,5 @@
+#for the power shell: 
+quarto render
+git add .
+git commit -m "Update everything"
+git push

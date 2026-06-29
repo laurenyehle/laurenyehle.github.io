@@ -5,7 +5,7 @@ image: images/headshot.jpg
 about:
   template: trestles
   image-shape: round
-  image-width: 16em
+  image-width: 18em
   links:
     - icon: building
       text: University of Gothenburg
@@ -21,7 +21,7 @@ about:
       href: https://scholar.google.com/citations?user=KpIU8IQAAAAJ&hl=en&oi=ao
 ---
 
-## Welcome
+## About
 
 I am a PhD student in Political Science at the University of Gothenburg. I study the political feasibility of environmental policy. Specifically, I investigate how compensation can make ambitious climate policies more politically acceptable among both organized interests and the public.
 

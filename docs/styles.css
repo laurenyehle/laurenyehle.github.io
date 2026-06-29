@@ -1,1 +1,16 @@
 /* css styles */
+/* Increase the maximum width of the content area */
+.quarto-container {
+  max-width: 1200px;
+}
+
+/* Add more space before section headings */
+h2 {
+  margin-top: 2rem;
+}
+
+/* Add more space between bibliography entries */
+#refs .csl-entry {
+  margin-bottom: 1.2rem;
+}
+

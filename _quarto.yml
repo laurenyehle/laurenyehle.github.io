@@ -5,6 +5,7 @@ project:
 website:
   title: "Lauren Yehle"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
@@ -16,8 +17,9 @@ website:
         text: Teaching and Supervision
       - href: cv.qmd
         text: CV
-      - href: contact.qmd
-        text: Contact
+  page-footer:
+    left: "© Lauren Yehle" 
+    right: "Built with Quarto"
 
 format:
   html:

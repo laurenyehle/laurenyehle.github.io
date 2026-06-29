@@ -2,10 +2,6 @@
 title: "Research"
 ---
 
----
-title: "Research"
----
-
 # Research
 
 My research examines the political feasibility of environmental policy, with a particular focus on how compensation can facilitate ambitious climate action. Broadly, I study how governments can design environmental policies that are both effective and politically acceptable.
@@ -16,24 +12,27 @@ My work combines theories of political behavior, public opinion, and environment
 
 ### Dissertation
 
-My dissertation investigates the political feasibility of compensating those who bear the costs of environmental policy.
+My dissertation examines a central paradox in the politics of environmental policy: the actors most capable of blocking ambitious environmental reforms are often the least likely to be viewed by the public as deserving of compensation, while those the public is most willing to compensate are rarely organized or politically influential enough to obstruct policy passage.
 
-The first paper examines whether compensating industries that oppose climate policy can increase the likelihood that ambitious climate policies are passed.
+Building on this puzzle, my research investigates when compensation can improve the political feasibility of environmental policy. The first paper examines whether compensating industries that oppose climate policy can increase the likelihood that ambitious environmental policies are adopted. The second investigates how perceptions of deservingness shape public support for compensating groups that may bear the costs of environmental policy, including unemployed workers and affected local communities.
 
-The second paper explores how perceptions of deservingness shape public willingness to compensate groups that may lose from environmental policy, including unemployed workers and affected local communities.
 
 ### FEM-Lead
 
-Alongside my dissertation, I contribute to the ERC-funded project *Fem-LEAD* with Professor Aksel Sundström. My current work synthesizes evidence on how natural disasters influence politically relevant outcomes through systematic review and meta-analysis, with a focus on electoral incumbency and political trust. 
+Alongside my dissertation, I contribute to the ERC-funded project *Fem-LEAD* with Professor Aksel Sundström. My current work synthesizes evidence on how natural disasters influence politically relevant outcomes through systematic review and meta-analysis, with a focus on electoral incumbency and vertical trust levels. 
 
 Learn more about the project on the **[Fem-LEAD website](https://akselsundstrom.com/erc-starting-grant/)**.
 
+### Generative AI and Survey Design
+I am also interested in the application of generative AI to survey methodology. My current work examines how large language models can improve questionnaire design, with one project focusing on refining English-language survey questions and another exploring the use of generative AI to support the preparation of surveys for translation within the TRAPD (Translation, Review, Adjudication, Pretesting, and Documentation) framework.
+
+This line of research began during my time as a data intern at the Governance and Local Development Institute under the supervision of Dr. Erica Metheney. Current working papers are available as preprints, and additional work is under review.
 
 ## Research Interests
 
 - Environmental politics
 - Public opinion
-- Climate and Biodiversity Loss policy acceptance
+- Climate and biodiversity Loss policy acceptance
 - Environmental governance
 - Collective action
 - Political behavior

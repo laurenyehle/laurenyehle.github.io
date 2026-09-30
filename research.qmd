@@ -2,9 +2,7 @@
 title: "Research"
 ---
 
-# Research
-
-My research examines the political feasibility of environmental policy, with a particular focus on how compensation can facilitate ambitious climate action. Broadly, I study how governments can design environmental policies that are both effective and politically acceptable.
+My research examines the political feasibility of environmental policy, with a particular focus on how compensation can facilitate ambitious environmental policy. Broadly, I study how governments can design environmental policies that are both effective and politically acceptable.
 
 My work combines theories of political behavior, public opinion, and environmental governance to understand how citizens, organized interests, and policymakers respond to environmental policy.
 
@@ -40,4 +38,4 @@ This line of research began during my time as a data intern at the Governance an
 
 ## Methods
 
-My work primarily employs quantitative methods, including survey experiments, causal inference, systematic reviews, and meta-analysis.
+My work primarily employs quantitative methods, including survey experiments, causal inference, systematic reviews, and meta-analysis. I have completed two courses at the Essex Summer School in Social Science Data Analysis: (1) Spatial Econometrics and (2) Causal Inference and Experiments in Social Science. I have additional training in systematic review and meta-analyses.

@@ -39,3 +39,6 @@ This line of research began during my time as a data intern at the Governance an
 ## Methods
 
 My work primarily employs quantitative methods, including survey experiments, causal inference, systematic reviews, and meta-analysis. I have completed two courses at the Essex Summer School in Social Science Data Analysis: (1) Spatial Econometrics and (2) Causal Inference and Experiments in Social Science. I have additional training in systematic review and meta-analyses.
+
+## Peer Reviewer
+Journal of Public Policy, British Journal of Politics and International Relations, Society & Natural Resources

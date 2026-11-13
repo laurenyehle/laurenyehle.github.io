@@ -16,7 +16,7 @@ nocite: |
 ## Working papers
 Constantino, Sara, Alicia Cooperman, Jessica Geiger, Manuela Munoz, Aksel Sundström, Ziqian Xia, **Lauren Yehle**  ``The Political Costs and Benefits of Natural Disasters." Under review at *American Political Science Review*
 
-Jagers, Sverker C., **Lauren Yehle**, Daniel Lindvall, Erik Elwing, and Niklas Harring. 2024. “Exploring How Specification of Revenue Use Shifts Attitudes Towards Climate Motivated Food Taxes.” Under review at *Food Policy*. https://doi.org/10.2139/ssrn.5060270.
+Jagers, Sverker C., **Lauren Yehle**, Daniel Lindvall, Erik Elwing, and Niklas Harring. 2024. “Exploring How Specification of Revenue Use Shifts Attitudes Towards Climate Motivated Food Taxes.” Under review. https://doi.org/10.2139/ssrn.5060270.
 
 Metheney, Erica Ann, and **Lauren Yehle**. 2025. “Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation.” arXiv. https://doi.org/10.48550/arXiv.2411.14472. 
 
